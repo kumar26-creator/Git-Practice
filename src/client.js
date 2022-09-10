@@ -1,4 +1,4 @@
 console.log("Client JS");
-console.log("Version 1");
+console.log("Version 11");
 
 console.log("Updated");
